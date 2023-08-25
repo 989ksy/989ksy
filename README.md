@@ -1,14 +1,16 @@
-
+<div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=About%20ME&fontSize=60&animation=fadeIn)
 
-#### 👋 Me
+### 👋 Me 👋
 ###
 
-iOS Developer 👩🏻‍💻
+iOS Developer 👩🏻‍💻  
+Study hard 🔥
 
 ##
 
-#### :computer: Tach Stacks
+### 💻 Tach Stacks 💻
 ###
 <img src="https://img.shields.io/badge/Swift-D0FA58?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-31B404?style=flat-square&logo=UIKit&logoColor=white"/>
 ###
@@ -19,7 +21,7 @@ iOS Developer 👩🏻‍💻
 
 ##
 
-#### ⏳ Log
+### ⏳ Log ⏳
 ###
 <div style="display:flex; flex-direction:row;">
     <a href="https://calliek.tistory.com/.tistory.com">
@@ -30,7 +32,7 @@ iOS Developer 👩🏻‍💻
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=callieK&theme=default)](https://callieK.tistory.com)
 
-
+</div>
 
 
 
