@@ -10,7 +10,7 @@ Study hard 🔥
 
 ##
 
-### 💻 Tach Stacks 💻
+### 💻 Tech Stacks 💻
 ###
 <img src="https://img.shields.io/badge/Swift-D0FA58?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-31B404?style=flat-square&logo=UIKit&logoColor=white"/>
 ###
