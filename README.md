@@ -1,18 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=CDE4AD&height=150&section=header&text=Seungyeon%20Kim&fontSize=50&animation=fadeIn)
 
+<br>
 
 ## 👋 Me
-iOS Developer 👩🏻‍💻  
+
+iOS Developer 👩🏻‍💻
+
 Study hard 🔥
+
+
+<br>
 
 ## 💻 Tech Stacks
 <img src="https://img.shields.io/badge/Swift-D0FA58?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-31B404?style=flat-square&logo=UIKit&logoColor=white"/>
-###
 
-###
-###
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=989ksy&layout=compact)](https://github.com/989ksy/github-readme-stats)
 
+<br>
 
 ## ⏳ Log 
 <div style="display:flex; flex-direction:row;">
