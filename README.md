@@ -12,8 +12,13 @@ Study hard 🔥
 <br>
 
 ## 💻 Tech Stacks
-<img src="https://img.shields.io/badge/Swift-D0FA58?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-31B404?style=flat-square&logo=UIKit&logoColor=white"/>
+<img src= "https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> <img src= "https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> 
 
+<img src="https://img.shields.io/badge/MVC-68BC71?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-83B81A?style=flat-square&logoColor=white"/> 
+
+<img src= "https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=989ksy&layout=compact)](https://github.com/989ksy/github-readme-stats)
 
