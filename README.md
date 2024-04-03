@@ -10,6 +10,14 @@
 
 <br>
 
+## 🍎 AppStore
+
+
+🏟️ 스포츠 직관 경험을 기록하는 앱:  [직관로그](https://apps.apple.com/kr/app/%EC%A7%81%EA%B4%80%EB%A1%9C%EA%B7%B8/id6469852233)
+
+
+<br>
+
 ## 💻 Tech Stacks
 <img src= "https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> <img src= "https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
 
