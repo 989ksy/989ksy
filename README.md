@@ -19,11 +19,7 @@
 <br>
 
 ## 💻 Tech Stacks
-<img src= "https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> <img src= "https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-3B66BC?style=flat-square&logo=swift&logoColor=white"/> 
-
-<img src= "https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+<img src= "https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> <img src= "https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-3B66BC?style=flat-square&logo=swift&logoColor=white"/>  <img src= "https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
 
 <br>
 
