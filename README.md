@@ -15,8 +15,7 @@
 - Zickwan (직관로그)
     - Link to the App Store: [Zickwan(직관로그)](https://apps.apple.com/kr/app/%EC%A7%81%EA%B4%80%EB%A1%9C%EA%B7%B8/id6469852233)
     - Users wrote their game experiences, which are displayed with a special ticket UI, along with game result charts
-    - Independently planned, designed, and developed an iOS application (collaborated with an UIUX designer from version 1.3.0)
-    - Achieved #1 ranking on the App Store(Korea)’s Sports Chart in December 2023
+    - 🥇 Achieved #1 ranking on the App Store(Korea)’s Sports Chart in December 2023
 
 #### Log
 
