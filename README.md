@@ -18,9 +18,10 @@
 #### Education
 
 - 새싹 영등포 iOS 앱개발자 데뷔 과정 3기 (2023.07 - 2024.01, 6 months)
-    - iOS BootCamp
-    - studied Swift, UIKit, SwiftUI, and git
+    - Intensive iOS Bootcamp
+    - Studied Swift, UIKit, SwiftUI, and git
+    - Participated two Service Learning projects
 
 - 🎓 University of Washington, Seattle (2017.09 - 2022.06)
     - BA in Art (Interdisciplinary Visual Art concentration)
-    - Minor in Art History
+    - Minor in Art Historys
