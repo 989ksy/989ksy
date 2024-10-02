@@ -32,4 +32,4 @@
 
 - 🎓 University of Washington, Seattle (2017.09 - 2022.06)
     - BA in Art (Interdisciplinary Visual Art concentration)
-    - Minor in Art Historys
+    - Minor in Art History
