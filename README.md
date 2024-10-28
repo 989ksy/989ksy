@@ -22,7 +22,7 @@
 
 #### Education
 
-- 새싹 영등포 iOS 앱개발자 데뷔 과정 3기 (2023.07 - 2024.01, 6 months)
+- 새싹(SeSAC) 영등포 iOS 앱개발자 데뷔 과정 3기 (2023.07 - 2024.01, 6 months)
     - Intensive iOS Bootcamp
     - Studied Swift, UIKit, SwiftUI, and git
 
