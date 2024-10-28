@@ -17,7 +17,7 @@
 #### Log
 
 - CalliOS
-  - Link to the blog: [CalliOS](https://calliek.tistory.com/)
+  - Link to blog: [CalliOS](https://calliek.tistory.com/)
   - A technical blog where I write about Swift, iOS development, computer science, and work logs in Korean.
 
 #### Education
