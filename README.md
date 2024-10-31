@@ -1,5 +1,5 @@
 
-### iOS Mobile Developer at Wylie (2024.04 - Present)
+### iOS Developer at Wylie (2024.04 - Present)
 - Utilizing UIKit, SwiftUI, MVVM, and TCA, etc
 
 ### About Me
