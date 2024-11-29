@@ -23,7 +23,7 @@
 #### Education
 
 - 새싹(SeSAC) 영등포 iOS 앱개발자 데뷔 과정 3기 (2023.07 - 2024.01, 6 months)
-    - Intensive iOS Bootcamp
+    - Advanced iOS Development Bootcamp by Seoul Metropolitan City
     
 - 🎓 University of Washington, Seattle (2017.09 - 2022.06)
     - BA in Art (Interdisciplinary Visual Art concentration)
