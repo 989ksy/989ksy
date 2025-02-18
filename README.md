@@ -1,8 +1,5 @@
 
 ## 👋 About Me
-### Work Experiences
-
-- **Wylie** - iOS Developer (2024.04 - 2024.11)
 
 ### Project
 
